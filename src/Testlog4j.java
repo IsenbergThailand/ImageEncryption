@@ -17,5 +17,8 @@ logger.info("Here is some INFO");//(6.2)
 logger.warn("Here is some WARN");//(6.3)
 logger.error("Here is some ERROR");//(6.4)
 logger.fatal("Here is some FATAL");//(6.5)
+logger.fatal("Here is some FATAL");//(6.5)
+logger.fatal("Here is some FATAL");//(6.5)
+logger.fatal("Here is some FATAL");//(6.5)
 }
 }
